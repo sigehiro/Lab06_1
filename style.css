@@ -1,0 +1,45 @@
+h1{
+   color: orange;
+   text-shadow: 1px 2px 1px black;;
+    font-style: italic;
+}
+
+.pumpkin-img-cont p {
+    float: left;
+}
+
+.store-title{
+    padding-left: 110px;
+    padding-top: 1px;
+}
+.store-title p {
+    font-weight: bold;
+    font-size: 22px;
+}
+h2::first-letter{
+    font-size: 200% ;
+}
+
+.product-conts a{
+    color: orange;
+}
+
+.product-conts a:hover{
+    color: green;
+}
+
+.product-conts a:active{
+    color: black;
+}
+
+span{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+footer{
+    text-align: center;
+}
+
+
+  
